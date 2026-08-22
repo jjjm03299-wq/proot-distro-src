@@ -1,4 +1,4 @@
-#!/@TERMUX_PREFIX@/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 ##
 ## Script for managing proot'ed Linux distribution installations in Termux.
 ##
